@@ -65,7 +65,7 @@
     <finalName>auth-user-service</finalName>
   </build>
   <properties>
-    <junit.version>4.12</junit.version>
+    <junit.version>4.13.1</junit.version>
     <jersey.version>2.29</jersey.version>
     <lombok.version>1.18.8</lombok.version>
     <maven.compiler.source>1.8</maven.compiler.source>
